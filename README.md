@@ -1,3 +1,5 @@
+Servo Motor Control With PIC16F628A Using Sigma-delta Mode As Analog Converter.
+
 Hello everyone, I present to you a circuit/code that can be very helpful for people who have difficulty controlling a servo motor using PIC microcontrollers. In this project, I use the 16F628A due to its powerful yet simple nature, although it lacks an A/D converter.
 
 The highlight of this circuit is the employability of the delta-sigma mode in emulating an A/D converter of up to 10 bits, which can have countless applications depending on your creativity. Another great advantage is using the PIC to control up to 8 servo motors through port B. With this combination of advantages, we have a versatile circuit for creating robotic arms, mobile robots, intelligent automation, etc.
